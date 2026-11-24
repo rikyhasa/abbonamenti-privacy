@@ -2,11 +2,11 @@
 title: Privacy
 ---
 
-# Abbonamenti in Famiglia: la tua privacy
+# Recur: la tua privacy
 
-*Ultimo aggiornamento: 23 novembre 2026*
+*Ultimo aggiornamento: 24 novembre 2026*
 
-Abbonamenti in Famiglia (sul telefono si chiama «Abbonamenti») è un'app per iPhone e iPad
+Recur è un'app per iPhone e iPad
 pensata per una famiglia: serve a tenere in ordine gli abbonamenti, cioè quanto costano, chi
 li paga, chi li usa e cosa scade. Questa pagina spiega dove finiscono i dati che inserisci e
 chi li può vedere.
@@ -26,7 +26,7 @@ chi li può vedere.
   importi, note e gli altri contenuti delle voci sono **cifrati** con chiavi che stanno nel
   tuo Portachiavi di iCloud: li leggono i tuoi dispositivi e, per le voci di Famiglia,
   quelli dei familiari invitati.
-- Abbonamenti non ha un server suo e non manda i tuoi dati a nessun altro.
+- Recur non ha un server suo e non manda i tuoi dati a nessun altro.
 
 Se perdi l'accesso al Portachiavi di iCloud e a tutti i modi per recuperarlo, i dati cifrati in
 iCloud non si possono più leggere. Per questo l'app ti propone di esportare ogni tanto una
@@ -58,15 +58,15 @@ copia (vedi più sotto).
 I promemoria delle scadenze arrivano come notifiche sul dispositivo. Le notifiche non
 mostrano mai l'importo. Con il **testo discreto** acceso non mostrano nemmeno il nome della
 voce; senza, il nome si vede anche a telefono bloccato, con o senza il blocco di
-Abbonamenti.
+Recur.
 
 ## Blocco con Face ID
 
 Nelle Impostazioni puoi accendere il blocco: all'apertura, e quando torni nell'app dopo
-più di un minuto fuori, Abbonamenti chiede Face ID, Touch ID o il codice del dispositivo.
+più di un minuto fuori, Recur chiede Face ID, Touch ID o il codice del dispositivo.
 
 - Da bloccata l'app mostra solo il suo nome: niente nomi né importi, nemmeno sfocati.
-- Nel selettore delle app (quando scorri tra le app aperte) l'anteprima di Abbonamenti
+- Nel selettore delle app (quando scorri tra le app aperte) l'anteprima di Recur
   mostra solo il nome dell'app, anche con il blocco spento.
 - Se il dispositivo non ha un codice, il blocco non può chiedere niente e l'app si apre: le
   Impostazioni lo segnalano. Per accendere il blocco serve un codice.
@@ -75,7 +75,7 @@ più di un minuto fuori, Abbonamenti chiede Face ID, Touch ID o il codice del di
 
 ## Backup del telefono
 
-La cartella dei dati di Abbonamenti è **esclusa dal backup del telefono** (iCloud o
+La cartella dei dati di Recur è **esclusa dal backup del telefono** (iCloud o
 computer). Un backup del telefono non è sempre cifrato come i dati dell'app in iCloud, e i
 contenuti delle voci non devono finirci. Se ripristini il telefono o ne usi uno nuovo, le
 voci tornano da iCloud appena entri con lo stesso account.
@@ -102,7 +102,7 @@ temporanea preparata per l'esportazione si cancella subito dopo.
 
 ## Uscire da iCloud
 
-Se esci da iCloud, entri con un altro account, o spegni iCloud solo per Abbonamenti, l'app
+Se esci da iCloud, entri con un altro account, o spegni iCloud solo per Recur, l'app
 **cancella i dati da questo dispositivo**, così chi usa il dispositivo dopo non li vede. Le
 voci e le persone restano nel tuo iCloud e tornano quando rientri con lo stesso account; quello
 che esiste solo sul telefono (vedi «Backup del telefono») si perde. Vengono tolte anche le
