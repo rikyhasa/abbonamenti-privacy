@@ -4,7 +4,7 @@ title: Privacy
 
 # Recur: la tua privacy
 
-*Ultimo aggiornamento: 24 novembre 2026*
+*Ultimo aggiornamento: 25 novembre 2026*
 
 Recur è un'app per iPhone e iPad
 pensata per una famiglia: serve a tenere in ordine gli abbonamenti, cioè quanto costano, chi
@@ -65,9 +65,10 @@ Recur.
 Nelle Impostazioni puoi accendere il blocco: all'apertura, e quando torni nell'app dopo
 più di un minuto fuori, Recur chiede Face ID, Touch ID o il codice del dispositivo.
 
-- Da bloccata l'app mostra solo il suo nome: niente nomi né importi, nemmeno sfocati.
+- Da bloccata l'app mostra solo la sua icona, il suo nome e il pulsante per sbloccarla:
+  niente nomi né importi, nemmeno sfocati.
 - Nel selettore delle app (quando scorri tra le app aperte) l'anteprima di Recur
-  mostra solo il nome dell'app, anche con il blocco spento.
+  mostra solo l'icona e il nome dell'app, anche con il blocco spento.
 - Se il dispositivo non ha un codice, il blocco non può chiedere niente e l'app si apre: le
   Impostazioni lo segnalano. Per accendere il blocco serve un codice.
 - La scelta resta su questo dispositivo, nel suo Portachiavi: non va in iCloud. Resta anche
